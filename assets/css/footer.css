@@ -8,5 +8,8 @@ footer{
 .footer_text{
     font-size: 0.8rem;
     font-style: italic;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
 }
 
